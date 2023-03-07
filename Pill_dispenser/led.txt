@@ -1,8 +1,3 @@
-#
-#      공대선배 라즈베리파이썬 #4 LED 켜기
-#      youtube 바로가기: https://www.youtube.com/c/공대선배
-#      LED를 1초마다 켜고 끄는 코드
-#
 
 import RPi.GPIO as GPIO     # 라즈베리파이 GPIO 관련 모듈을 불러옴
 import time                 # 시간관련 모듈을 불러옴
@@ -10,9 +5,7 @@ import time                 # 시간관련 모듈을 불러옴
 GPIO.setmode(GPIO.BCM)      # GPIO 핀들의 번호를 지정하는 규칙 설정
 
 ### 이부분은 아두이노 코딩의 setup()에 해당합니다
-LED_pin = 25
-LED_pin = 24
-LED_pin = 23      # LED 핀은 라즈베리파이 GPIO 2번핀으로 
+LED_pin = 25 
 GPIO.setup(LED_pin, GPIO.OUT)   # LED 핀을 출력으로 설정
 
 ### 이부분은 아두이노 코딩의 loop()에 해당합니다
