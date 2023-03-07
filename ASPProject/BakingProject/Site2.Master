@@ -1,0 +1,111 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="project07.Site2" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .header{height:60px; min-width: 600px; background-color:lightyellow;
+                color:white; padding:10px;
+        }
+        .nav{
+            float:left; width:200px; min-height:300px; background-color:rosybrown; padding:10px;
+        }
+        .article{
+            float:left; min-width:400px; min-height:300px; padding: 10px;
+        }
+        .footer{
+            clear:both; height:40px; background-color:silver; padding:10px; font-size:small
+        }
+        .auto-style1 {
+            font-size: x-large; 
+color:saddlebrown;
+        }
+        .auto-style2 {
+            color: #0000CC;
+        }
+        .auto-style3 {
+            height: 60px;
+            min-width: 600px;
+            background-color: lightyellow;
+            color: white;
+            padding: 10px;
+            text-align: left;
+        }
+        .auto-style5 {
+            font-size: medium;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="auto-style3">
+
+            <br />
+            <span class="auto-style1"><strong>다양한 디저트 메뉴를 개발하는 카페</strong></span></div>
+        <div class="nav">
+
+            <asp:Panel ID="Panel1" runat="server">
+                <asp:Button ID="Button1" runat="server" Text="로그인" OnClick="Button1_Click" Width="93px" />
+                &nbsp;<asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="회원가입" Width="90px" />
+            </asp:Panel>
+            <asp:Panel ID="Panel2" runat="server" Height="108px">
+                <strong>
+                <asp:Label ID="Label1" runat="server" CssClass="auto-style2"></asp:Label>
+                </strong>
+                <br />
+                <asp:Button ID="Button3" runat="server" OnClick="Button3_Click" Text="로그아웃" Width="90px" />
+                &nbsp;<asp:Button ID="Button4" runat="server" OnClick="Button4_Click" Text="정보변경" Width="90px" />
+                <strong>
+                <br />
+                <br />
+                <asp:HyperLink ID="HyperLink10" runat="server" CssClass="auto-style5" NavigateUrl="~/MemberOnly/Survey.aspx">※주의사항 및 설문조사※</asp:HyperLink>
+                </strong>
+            </asp:Panel>
+            <br />
+            <asp:HyperLink ID="HyperLink8" runat="server" NavigateUrl="~/Home.aspx">Home</asp:HyperLink>
+            <br />
+            <asp:HyperLink ID="HyperLink11" runat="server" NavigateUrl="~/MemberOnly/Idea.aspx">아이디어 등록하기</asp:HyperLink>
+            <br />
+
+            <asp:HyperLink ID="HyperLink9" runat="server" NavigateUrl="~/DessertView.aspx">아이디어 목록</asp:HyperLink>
+            <br />
+            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/DessertSearch.aspx">디저트 검색하기</asp:HyperLink>
+            <br />
+
+            <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/AdminOnly/User관리.aspx">회원 관리</asp:HyperLink>
+
+            <br />
+            <asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="~/회원확인page.aspx">회원 확인 페이지</asp:HyperLink>
+            <br />
+            <br />
+            <br />
+            <br />
+
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+
+        </div>
+        <div class="article"> 
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                기본 컨텐츠
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="footer">
+            copyright &copy;2021 Baewha Women's Univercity. All rights reserved.<br />
+            서울시 종로구 필운대로1길 34 배화여자대학교 <strong>스마트IT과 202031060 임세정</strong>
+        </div>
+    </form>
+</body>
+</html>
