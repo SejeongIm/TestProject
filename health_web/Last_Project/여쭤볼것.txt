@@ -1,0 +1,12 @@
+﻿1. edit 파일에서 파일 삭제 후 없을 때 또 누르면 삭제오류
+2. 로그인 기본값 - 방명록 설정 어떻게 하는지
+3. Album List 페이지 실행 안됨
+
+TIP!
+우클릭 후 시작페이지로 설정 ->Home으로 지정
+
+
+board폴더 안 파일(CheckPassword, Delete, Edit, List, Read, Reply, Write), board테이블 - 세정
+List, Write, NoteList(한줄 게시판), Note테이블 - 채연
+기타1, MemberOnly 안 CalendarEx, schedule테이블, AI테이블, ai2테이블 - 민지
+Album 폴더 안 파일 ,Supply, Photos 테이블- 정인

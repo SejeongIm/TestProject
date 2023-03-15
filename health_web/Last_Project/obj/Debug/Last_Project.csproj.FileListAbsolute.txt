@@ -1,0 +1,476 @@
+C:\ASPNET\Last_Project\Last_Project\bin\Last_Project.dll.config
+C:\ASPNET\Last_Project\Last_Project\bin\Last_Project.dll
+C:\ASPNET\Last_Project\Last_Project\bin\Last_Project.pdb
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\csc.exe
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\csc.exe.config
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\csc.rsp
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\csi.exe
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\csi.exe.config
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\csi.rsp
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.AppContext.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Console.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.IO.Compression.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Net.Http.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Net.Sockets.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.ValueTuple.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Xml.XPath.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\vbc.exe
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\vbc.exe.config
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\vbc.rsp
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\VBCSCompiler.exe
+C:\ASPNET\Last_Project\Last_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\ASPNET\Last_Project\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ASPNET\Last_Project\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ASPNET\Last_Project\Last_Project\obj\Debug\Last_Project.csproj.AssemblyReference.cache
+C:\ASPNET\Last_Project\Last_Project\obj\Debug\Last_Project.csproj.CoreCompileInputs.cache
+C:\ASPNET\Last_Project\Last_Project\obj\Debug\Last_Project.csproj.CopyComplete
+C:\ASPNET\Last_Project\Last_Project\obj\Debug\Last_Project.dll
+C:\ASPNET\Last_Project\Last_Project\obj\Debug\Last_Project.pdb
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\Last_Project.dll.config
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\Last_Project.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\Last_Project.pdb
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\csc.exe
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\csc.exe.config
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\csc.rsp
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\csi.exe
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\csi.exe.config
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\csi.rsp
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.Managed.Core.targets
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.AppContext.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Collections.Immutable.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Console.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Globalization.Calendars.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.IO.Compression.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.IO.FileSystem.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Net.Http.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Net.Sockets.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Reflection.Metadata.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.ValueTuple.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Xml.XmlDocument.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Xml.XPath.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\vbc.exe
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\vbc.exe.config
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\vbc.rsp
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\VBCSCompiler.exe
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\VBCSCompiler.exe.config
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\obj\Debug\Last_Project.csprojAssemblyReference.cache
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\obj\Debug\Last_Project.csproj.CoreCompileInputs.cache
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\obj\Debug\Last_Project.csproj.CopyComplete
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\obj\Debug\Last_Project.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\obj\Debug\Last_Project.pdb
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\Last_Project.dll.config
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\Last_Project.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\Last_Project.pdb
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\csc.exe
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\csc.exe.config
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\csc.rsp
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\csi.exe
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\csi.exe.config
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\csi.rsp
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.AppContext.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Console.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Globalization.Calendars.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.IO.Compression.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.IO.FileSystem.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Net.Http.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Net.Sockets.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.ValueTuple.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Xml.XPath.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\vbc.exe
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\vbc.exe.config
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\vbc.rsp
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\VBCSCompiler.exe
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\obj\Debug\Last_Project.csproj.AssemblyReference.cache
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\obj\Debug\Last_Project.csproj.CoreCompileInputs.cache
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\obj\Debug\Last_Project.csproj.CopyComplete
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\obj\Debug\Last_Project.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project\Last_Project\obj\Debug\Last_Project.pdb
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\Last_Project.dll.config
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\Last_Project.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\Last_Project.pdb
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\csc.exe
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\csc.exe.config
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\csc.rsp
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\csi.exe
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\csi.exe.config
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\csi.rsp
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.AppContext.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Console.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Net.Http.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\vbc.exe
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\vbc.exe.config
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\vbc.rsp
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WCY\Desktop\Last_Project\Last_Project\obj\Debug\Last_Project.csproj.AssemblyReference.cache
+C:\Users\WCY\Desktop\Last_Project\Last_Project\obj\Debug\Last_Project.csproj.CoreCompileInputs.cache
+C:\Users\WCY\Desktop\Last_Project\Last_Project\obj\Debug\Last_Project.csproj.CopyComplete
+C:\Users\WCY\Desktop\Last_Project\Last_Project\obj\Debug\Last_Project.dll
+C:\Users\WCY\Desktop\Last_Project\Last_Project\obj\Debug\Last_Project.pdb
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\Last_Project.dll.config
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\Last_Project.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\Last_Project.pdb
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\obj\Debug\Last_Project.csproj.AssemblyReference.cache
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\obj\Debug\Last_Project.csproj.CoreCompileInputs.cache
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\obj\Debug\Last_Project.csproj.CopyComplete
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\obj\Debug\Last_Project.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\obj\Debug\Last_Project.pdb
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\csc.exe
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\csc.exe.config
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\csc.rsp
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\csi.exe
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\csi.exe.config
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\csi.rsp
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.AppContext.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Console.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Net.Http.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\vbc.exe
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\vbc.exe.config
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\vbc.rsp
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\abdla\OneDrive\바탕 화면\3-1\포트폴리오설계_최윤경교수님\Last_Project (2)\Last_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\ASPNET\Last_Project (2)\Last_Project\bin\Last_Project.dll.config
+C:\ASPNET\Last_Project (2)\Last_Project\bin\Last_Project.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\Last_Project.pdb
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\csc.exe
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\csc.exe.config
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\csc.rsp
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\csi.exe
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\csi.exe.config
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\csi.rsp
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.AppContext.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Console.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.IO.Compression.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Net.Http.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Net.Sockets.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.ValueTuple.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.XPath.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\vbc.exe
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\vbc.exe.config
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\vbc.rsp
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\VBCSCompiler.exe
+C:\ASPNET\Last_Project (2)\Last_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\ASPNET\Last_Project (2)\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ASPNET\Last_Project (2)\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ASPNET\Last_Project (2)\Last_Project\obj\Debug\Last_Project.csproj.AssemblyReference.cache
+C:\ASPNET\Last_Project (2)\Last_Project\obj\Debug\Last_Project.csproj.CoreCompileInputs.cache
+C:\ASPNET\Last_Project (2)\Last_Project\obj\Debug\Last_Project.csproj.CopyComplete
+C:\ASPNET\Last_Project (2)\Last_Project\obj\Debug\Last_Project.dll
+C:\ASPNET\Last_Project (2)\Last_Project\obj\Debug\Last_Project.pdb
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\obj\Debug\Last_Project.csprojAssemblyReference.cache
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\obj\Debug\Last_Project.csproj.CoreCompileInputs.cache
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\obj\Debug\Last_Project.dll
+F:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\obj\Debug\Last_Project.pdb
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\obj\Debug\Last_Project.csproj.AssemblyReference.cache
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\obj\Debug\Last_Project.csproj.CoreCompileInputs.cache
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\obj\Debug\Last_Project.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\obj\Debug\Last_Project.pdb
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\Last_Project.dll.config
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\Last_Project.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\Last_Project.pdb
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\csc.exe
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\csc.exe.config
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\csc.rsp
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\csi.exe
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\csi.exe.config
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\csi.rsp
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.Managed.Core.targets
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.AppContext.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Collections.Immutable.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Console.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Globalization.Calendars.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.IO.Compression.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.IO.FileSystem.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Net.Http.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Net.Sockets.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Reflection.Metadata.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.ValueTuple.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.XmlDocument.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.XPath.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\vbc.exe
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\vbc.exe.config
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\vbc.rsp
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\VBCSCompiler.exe
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\VBCSCompiler.exe.config
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\obj\Debug\Last_Project.csproj.CopyComplete
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\Last_Project.dll.config
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\Last_Project.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\Last_Project.pdb
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\csc.exe
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\csc.exe.config
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\csc.rsp
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\csi.exe
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\csi.exe.config
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\csi.rsp
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.AppContext.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Console.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Globalization.Calendars.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.IO.Compression.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.IO.FileSystem.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Net.Http.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Net.Sockets.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.ValueTuple.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.XPath.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\vbc.exe
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\vbc.exe.config
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\vbc.rsp
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\VBCSCompiler.exe
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\obj\Debug\Last_Project.csproj.AssemblyReference.cache
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\obj\Debug\Last_Project.csproj.CoreCompileInputs.cache
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\obj\Debug\Last_Project.csproj.CopyComplete
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\obj\Debug\Last_Project.dll
+D:\포트폴리오설계 파일\기말고사 준비즁\포트폴리오설계_웹사이트asp.net\Last_Project (2)\Last_Project\obj\Debug\Last_Project.pdb

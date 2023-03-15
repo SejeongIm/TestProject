@@ -1,0 +1,132 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Last_Project.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        html{
+            background-color:antiquewhite
+        }
+
+        .wrapper{ width:900px; }
+
+        .h2 {
+            margin:0;
+            height:96px;
+            text-align:inherit;
+
+        }
+        .header { 
+           
+            height:200px; 
+                  color: brown; padding:0px;
+                  background-color:lightgreen; text-align:center;
+                  
+        }
+        .nav { 
+               background-color:green;
+               color:black; 
+               padding:20px 20px; }
+
+        .sidebar{
+            background-color:lightyellow;
+            float:left; width:170px; height:1000px; border-bottom:2px dotted pink;
+            padding:10px;
+            
+
+        }
+        .article { float:right; width:690px; height:1000px;
+                      padding:10px; background-color:white; }
+        
+        .footer { 
+            clear:both; padding:0px 0px;
+                  color:black; height: 70px;
+                  background-color:white;
+        }
+        
+        
+        
+        .auto-style1 {
+            text-align: center;
+        }
+        
+        
+        
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="wrapper">
+
+        <div class="header">
+            <asp:Image ID="Image3" runat="server" Height="200px" Width="900px" ImageUrl="~/Images/1.gif" />
+        </div>
+        <div class="nav">
+
+            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Home.aspx" style="color: #FFFFFF">Home</asp:HyperLink>
+            
+            &nbsp;
+            
+            <asp:HyperLink ID="HyperLink2" runat="server" style="color: #FFFFFF" NavigateUrl="~/NoteList.aspx">한줄 게시판</asp:HyperLink>
+            
+            &nbsp;
+            
+            <asp:HyperLink ID="HyperLink3" runat="server" style="color: #FFFFFF" NavigateUrl="~/List.aspx">방명록</asp:HyperLink>
+           
+            &nbsp;
+           
+            <asp:HyperLink ID="HyperLink4" runat="server" style="color: #FFFFFF" NavigateUrl="~/Album/List.aspx">앨범</asp:HyperLink>
+            &nbsp;&nbsp;
+            <asp:HyperLink ID="HyperLink5" runat="server" style="color: #FFFFFF" NavigateUrl="~/MemberOnly/CalendarEx.aspx">캘린더</asp:HyperLink>
+&nbsp;&nbsp;
+            <asp:HyperLink ID="HyperLink6" runat="server" style="color: #FFFFFF" NavigateUrl="~/Board/List.aspx">게시판/자료실</asp:HyperLink>
+&nbsp;&nbsp;
+            <asp:HyperLink ID="HyperLink7" runat="server" style="color: #FFFFFF" NavigateUrl="~/기타1.aspx">기타1</asp:HyperLink>
+&nbsp;&nbsp;
+            <asp:HyperLink ID="HyperLink8" runat="server" style="color: #FFFFFF" NavigateUrl="~/Supply.aspx">기타2</asp:HyperLink>
+            <br />
+            </div>
+            
+
+        <div class="sidebar">
+            <asp:Panel ID="Panel1" runat="server">
+                <asp:Button ID="Button1" runat="server" Text="로그인" OnClick="Button1_Click" />
+                &nbsp;
+                <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="회원가입" />
+            </asp:Panel>
+            <br />
+            <div class="auto-style1">
+            <asp:Panel ID="Panel2" runat="server">
+                <br />
+                <asp:Label ID="Label1" runat="server"></asp:Label>
+                <br />
+                <br />
+                <asp:Button ID="Button3" runat="server" OnClick="Button3_Click" Text="로그아웃" />
+                &nbsp;
+                <asp:Button ID="Button4" runat="server" OnClick="Button4_Click" Text="정보변경" />
+            </asp:Panel>
+                <br />
+                <asp:Image ID="Image1" runat="server" Height="100px" Width="100px" ImageAlign="Middle" ImageUrl="~/Images/건강이.png" />
+                </div>
+                </div>
+        
+
+        <div class ="article">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            기본 콘텐츠!
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <div class="footer">
+             <asp:Image ID="Image2" runat="server" Height="69px" Width="901px" ImageUrl="~/Images/2.gif" />
+       
+        </div>
+        </div>
+    </form>
+</body>
+</html>
